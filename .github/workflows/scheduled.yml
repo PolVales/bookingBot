@@ -2,7 +2,7 @@ name: Scheduled FitBot run
 
 on:
   schedule:
-  - cron: "* * * * *"
+  - cron: "14 17 * * *"
 
 jobs:
   run:
